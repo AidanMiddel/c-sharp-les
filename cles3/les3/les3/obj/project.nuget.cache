@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vkpp9CPob+Ia1yQp97rYM+6HLZvfV2BWbefrVBneyy3lbv7P5JxqrOveg7Ve/iF7DHKYKSvfFNUj5ZRiegR3Ig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aidan\\OneDrive - Mediacollege Amsterdam\\ma jaar 2\\bewijzenmap\\periode 1\\c# les\\cles3\\les3\\les3\\les3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aidan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

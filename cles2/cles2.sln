@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cles2", "cles2\cles2.csproj", "{3C834729-6821-4D2E-8E14-E0DBFD5C17EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C834729-6821-4D2E-8E14-E0DBFD5C17EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C834729-6821-4D2E-8E14-E0DBFD5C17EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C834729-6821-4D2E-8E14-E0DBFD5C17EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C834729-6821-4D2E-8E14-E0DBFD5C17EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53FF1556-7085-497D-84A2-C247504D0FCE}
+	EndGlobalSection
+EndGlobal

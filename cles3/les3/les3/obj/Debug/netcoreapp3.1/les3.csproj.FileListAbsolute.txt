@@ -1,0 +1,13 @@
+C:\Users\aidan\OneDrive - Mediacollege Amsterdam\ma jaar 2\bewijzenmap\periode 1\c# les\cles3\les3\les3\bin\Debug\netcoreapp3.1\les3.exe
+C:\Users\aidan\OneDrive - Mediacollege Amsterdam\ma jaar 2\bewijzenmap\periode 1\c# les\cles3\les3\les3\bin\Debug\netcoreapp3.1\les3.deps.json
+C:\Users\aidan\OneDrive - Mediacollege Amsterdam\ma jaar 2\bewijzenmap\periode 1\c# les\cles3\les3\les3\bin\Debug\netcoreapp3.1\les3.runtimeconfig.json
+C:\Users\aidan\OneDrive - Mediacollege Amsterdam\ma jaar 2\bewijzenmap\periode 1\c# les\cles3\les3\les3\bin\Debug\netcoreapp3.1\les3.runtimeconfig.dev.json
+C:\Users\aidan\OneDrive - Mediacollege Amsterdam\ma jaar 2\bewijzenmap\periode 1\c# les\cles3\les3\les3\bin\Debug\netcoreapp3.1\les3.dll
+C:\Users\aidan\OneDrive - Mediacollege Amsterdam\ma jaar 2\bewijzenmap\periode 1\c# les\cles3\les3\les3\bin\Debug\netcoreapp3.1\les3.pdb
+C:\Users\aidan\OneDrive - Mediacollege Amsterdam\ma jaar 2\bewijzenmap\periode 1\c# les\cles3\les3\les3\obj\Debug\netcoreapp3.1\les3.csprojAssemblyReference.cache
+C:\Users\aidan\OneDrive - Mediacollege Amsterdam\ma jaar 2\bewijzenmap\periode 1\c# les\cles3\les3\les3\obj\Debug\netcoreapp3.1\les3.AssemblyInfoInputs.cache
+C:\Users\aidan\OneDrive - Mediacollege Amsterdam\ma jaar 2\bewijzenmap\periode 1\c# les\cles3\les3\les3\obj\Debug\netcoreapp3.1\les3.AssemblyInfo.cs
+C:\Users\aidan\OneDrive - Mediacollege Amsterdam\ma jaar 2\bewijzenmap\periode 1\c# les\cles3\les3\les3\obj\Debug\netcoreapp3.1\les3.csproj.CoreCompileInputs.cache
+C:\Users\aidan\OneDrive - Mediacollege Amsterdam\ma jaar 2\bewijzenmap\periode 1\c# les\cles3\les3\les3\obj\Debug\netcoreapp3.1\les3.dll
+C:\Users\aidan\OneDrive - Mediacollege Amsterdam\ma jaar 2\bewijzenmap\periode 1\c# les\cles3\les3\les3\obj\Debug\netcoreapp3.1\les3.pdb
+C:\Users\aidan\OneDrive - Mediacollege Amsterdam\ma jaar 2\bewijzenmap\periode 1\c# les\cles3\les3\les3\obj\Debug\netcoreapp3.1\les3.genruntimeconfig.cache
