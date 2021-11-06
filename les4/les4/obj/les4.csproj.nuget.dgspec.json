@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aidan\\OneDrive - Mediacollege Amsterdam\\ma jaar 2\\bewijzenmap\\periode 1\\c# les\\cles3\\les3\\les3\\les3.csproj": {}
+    "C:\\Users\\aidan\\OneDrive - Mediacollege Amsterdam\\ma jaar 2\\bewijzenmap\\periode 1\\c# les\\les4\\les4\\les4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aidan\\OneDrive - Mediacollege Amsterdam\\ma jaar 2\\bewijzenmap\\periode 1\\c# les\\cles3\\les3\\les3\\les3.csproj": {
+    "C:\\Users\\aidan\\OneDrive - Mediacollege Amsterdam\\ma jaar 2\\bewijzenmap\\periode 1\\c# les\\les4\\les4\\les4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aidan\\OneDrive - Mediacollege Amsterdam\\ma jaar 2\\bewijzenmap\\periode 1\\c# les\\cles3\\les3\\les3\\les3.csproj",
-        "projectName": "les3",
-        "projectPath": "C:\\Users\\aidan\\OneDrive - Mediacollege Amsterdam\\ma jaar 2\\bewijzenmap\\periode 1\\c# les\\cles3\\les3\\les3\\les3.csproj",
+        "projectUniqueName": "C:\\Users\\aidan\\OneDrive - Mediacollege Amsterdam\\ma jaar 2\\bewijzenmap\\periode 1\\c# les\\les4\\les4\\les4.csproj",
+        "projectName": "les4",
+        "projectPath": "C:\\Users\\aidan\\OneDrive - Mediacollege Amsterdam\\ma jaar 2\\bewijzenmap\\periode 1\\c# les\\les4\\les4\\les4.csproj",
         "packagesPath": "C:\\Users\\aidan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aidan\\OneDrive - Mediacollege Amsterdam\\ma jaar 2\\bewijzenmap\\periode 1\\c# les\\cles3\\les3\\les3\\obj\\",
+        "outputPath": "C:\\Users\\aidan\\OneDrive - Mediacollege Amsterdam\\ma jaar 2\\bewijzenmap\\periode 1\\c# les\\les4\\les4\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
